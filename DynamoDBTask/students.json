@@ -1,0 +1,179 @@
+{
+    "students": [
+        {
+            "StudentID": "1",
+            "Name": "Student1",
+            "Age": 22,
+            "Course": "DataScience",
+            "Marks": 94
+        },
+        {
+            "StudentID": "2",
+            "Name": "Student2",
+            "Age": 19,
+            "Course": "DevOps",
+            "Marks": 91
+        },
+        {
+            "StudentID": "3",
+            "Name": "Student3",
+            "Age": 23,
+            "Course": "DevOps",
+            "Marks": 49
+        },
+        {
+            "StudentID": "4",
+            "Name": "Student4",
+            "Age": 20,
+            "Course": "AWS",
+            "Marks": 35
+        },
+        {
+            "StudentID": "5",
+            "Name": "Student5",
+            "Age": 21,
+            "Course": "Python",
+            "Marks": 60
+        },
+        {
+            "StudentID": "6",
+            "Name": "Student6",
+            "Age": 20,
+            "Course": "AWS",
+            "Marks": 44
+        },
+        {
+            "StudentID": "7",
+            "Name": "Student7",
+            "Age": 21,
+            "Course": "AWS",
+            "Marks": 96
+        },
+        {
+            "StudentID": "8",
+            "Name": "Student8",
+            "Age": 19,
+            "Course": "AWS",
+            "Marks": 52
+        },
+        {
+            "StudentID": "9",
+            "Name": "Student9",
+            "Age": 23,
+            "Course": "DataScience",
+            "Marks": 66
+        },
+        {
+            "StudentID": "10",
+            "Name": "Student10",
+            "Age": 23,
+            "Course": "Python",
+            "Marks": 28
+        },
+        {
+            "StudentID": "11",
+            "Name": "Student11",
+            "Age": 19,
+            "Course": "Python",
+            "Marks": 96
+        },
+        {
+            "StudentID": "12",
+            "Name": "Student12",
+            "Age": 22,
+            "Course": "AWS",
+            "Marks": 84
+        },
+        {
+            "StudentID": "13",
+            "Name": "Student13",
+            "Age": 20,
+            "Course": "DevOps",
+            "Marks": 38
+        },
+        {
+            "StudentID": "14",
+            "Name": "Student14",
+            "Age": 22,
+            "Course": "Python",
+            "Marks": 29
+        },
+        {
+            "StudentID": "15",
+            "Name": "Student15",
+            "Age": 18,
+            "Course": "DataScience",
+            "Marks": 51
+        },
+        {
+            "StudentID": "16",
+            "Name": "Student16",
+            "Age": 21,
+            "Course": "Python",
+            "Marks": 73
+        },
+        {
+            "StudentID": "17",
+            "Name": "Student17",
+            "Age": 22,
+            "Course": "AWS",
+            "Marks": 91
+        },
+        {
+            "StudentID": "18",
+            "Name": "Student18",
+            "Age": 18,
+            "Course": "DevOps",
+            "Marks": 47
+        },
+        {
+            "StudentID": "19",
+            "Name": "Student19",
+            "Age": 21,
+            "Course": "DataScience",
+            "Marks": 43
+        },
+        {
+            "StudentID": "20",
+            "Name": "Student20",
+            "Age": 22,
+            "Course": "DevOps",
+            "Marks": 79
+        },
+        {
+            "StudentID": "21",
+            "Name": "Student21",
+            "Age": 20,
+            "Course": "DataScience",
+            "Marks": 76
+        },
+        {
+            "StudentID": "22",
+            "Name": "Student22",
+            "Age": 18,
+            "Course": "DataScience",
+            "Marks": 28
+        },
+        {
+            "StudentID": "23",
+            "Name": "Student23",
+            "Age": 23,
+            "Course": "Python",
+            "Marks": 78
+        },
+        {
+            "StudentID": "24",
+            "Name": "Student24",
+            "Age": 21,
+            "Course": "Python",
+            "Marks": 26
+        },
+        {
+            "StudentID": "25",
+            "Name": "Student25",
+            "Age": 20,
+            "Course": "DevOps",
+            "Marks": 35
+        }
+    ]
+}

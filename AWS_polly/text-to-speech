@@ -1,0 +1,16 @@
+import boto3
+
+polly = boto3.client("polly", region_name="ap-south-1")
+
+text = input("Enter text: ")
+
+response = polly.synthesize_speech(
+    Text=text,
+    OutputFormat="mp3",
+    VoiceId="Aditi"
+)
+
+with open("output.mp3", "wb") as f:
+    f.write(response["AudioStream"].read())
+
+print("Speech saved as output.mp3")

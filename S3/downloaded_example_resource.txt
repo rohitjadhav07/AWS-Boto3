@@ -1,0 +1,31 @@
+30 Questions 
+1. Give me 4 points which makes python more popular than other languages.
+2. How to store data in python using variable and what are its diff data types.
+3. what is type conversion, explain with example
+4. what is diff btwn = and == operator.
+5. what is diff btwn == and is operator
+6. What is diff btwn for and while loop with example.
+7. what is infinite loop and how does it actually happen 
+8. what is indentation in python and why it is important
+9. what are the diff builtin function in python give examples
+10. what is list in python, why it is used explain with real life example
+11. diff btwn list and tuple with example
+12. what does mutable and immutable mean give examples
+13. what are the diff operations you can perform on list
+14. explain in detail what is list indexing (4 points)
+15. what is a set in python and where it is useful in real life
+16. why are duplicates removed in a set 
+17. can we access set elements using index and why
+18. what is a dictionary in python explain with example
+19. why is dictionary faster than list search (beryyy berryyy IMPORTANT)
+20. what is exact diff btwn key and value in dictionary 
+21. how to check if key exists in dictionary and how do we iterate through whole dictionary 
+22. what is a class and a object in python explain with example
+23. what is a constructor, explain the init method is detail
+24. what is self in a constructor
+25. explain 4 pillers of oop with example
+26. what is exception handling in python why it is important 
+27. what is json and why it is widely used on internet
+28. describe diff file operations you have used in your projects
+29. what is an api and how does python interact with it
+note: every answer must be atleast 20 to 40 seconds not less not more

@@ -1,0 +1,8 @@
+Hello Rohit.
+This is the first paragraph of the AWS Polly demo.
+
+This is the second paragraph.
+It will be spoken using a different voice.
+
+Finally this is the third paragraph.
+This paragraph will use another voice.
